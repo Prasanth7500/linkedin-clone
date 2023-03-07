@@ -1,0 +1,10 @@
+React
+Redux
+Authentication
+Firebase
+React Router
+React Hooks (Use effect and use state)
+Funtional component
+Material Ui
+Flexbox
+Styled Components

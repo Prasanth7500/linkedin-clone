@@ -1,0 +1,13 @@
+{
+    "emmet.preferences": {
+
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.fontLigatures": false
+
+    
+}
+
